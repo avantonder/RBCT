@@ -14,4 +14,4 @@ Script for extracting infection times, cases and transmission networks from mult
 
 ## parseTransPhylo.R
 
-Script for parsing multiple inputs from transPhyloExtract.R to create summaries and figure for the manuscript
+Script for parsing multiple inputs from transPhyloExtract.R to create summaries and figures for the manuscript
