@@ -19,3 +19,7 @@ Script for parsing multiple inputs from transPhyloExtract.R to create summaries 
 ## parseBASTA.R
 
 Script for parsing multiple inputs from BASTA runs
+
+## summariseBEASTdtr.R
+
+Script to produce Dated Tip Randomization plot using inputs from the R library TIPDATINGBEAST
