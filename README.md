@@ -27,3 +27,7 @@ Script for parsing multiple inputs from BASTA runs.
 ## summariseBEASTdtr.R
 
 Script to produce Dated Tip Randomization plot using inputs from the R library TIPDATINGBEAST.
+
+## cattleMovements.R
+
+Script to produces plots incorporating data from CTS and Sam databases
