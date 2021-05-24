@@ -30,4 +30,4 @@ Script to produce Dated Tip Randomization plot using inputs from the R library T
 
 ## cattleMovements.R
 
-Script to produces plots incorporating data from CTS and Sam databases
+Script to produces plots incorporating data from CTS and Sam databases.
